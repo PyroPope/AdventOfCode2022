@@ -6,6 +6,7 @@ I have completed years 2018, 2020, and 2021.
 I am not a programmer by profession, but enjoy coding on my own time.
 
 I missed Day 3 and did Day 3 + 4 back to back starting at around 2 am.
+
 Day 4 took me about 15 minutes for both parts.
 
 Scores 2022:
