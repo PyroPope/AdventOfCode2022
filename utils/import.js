@@ -9,7 +9,7 @@ function getTextURL(int){
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
         }
     });
-    return res.body.toString();
+    return res.body.toString().trimEnd();
 }
 
 function getText(filename){
@@ -18,15 +18,15 @@ function getText(filename){
     }
     let old = filename;
     if(fs.existsSync(filename)){
-        return fs.readFileSync(filename).toString('utf-8').trim();
+        return fs.readFileSync(filename).toString('utf-8').trimEnd();
     }else{
         filename = './'+old;
         if(fs.existsSync(filename)){
-            return fs.readFileSync(filename).toString('utf-8').trim();
+            return fs.readFileSync(filename).toString('utf-8').trimEnd();
         }
         filename = './Completed/'+old;
         if(fs.existsSync(filename)){
-            return fs.readFileSync(filename).toString('utf-8').trim();
+            return fs.readFileSync(filename).toString('utf-8').trimEnd();
         }
     }
     return "Unable to load file.";
