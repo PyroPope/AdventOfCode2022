@@ -9,6 +9,7 @@ I missed Day 3 and did Day 3 + 4 back to back starting at around 2 am.
 Day 4 took me about 15 minutes for both parts.
 
 Scores 2022:
+
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
        5   01:19:00  13932      0   01:20:20  12667      0
