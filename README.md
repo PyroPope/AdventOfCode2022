@@ -10,10 +10,13 @@ Day 4 took me about 15 minutes for both parts.
 
 Day 6 was a late start, but a good clear time.
 
+Late start on day 7, but the thing took me way too long. About an hour and a half... I was struggling with input working but code not. and the problem was duplicated folder names deeper in the structure.
+
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+       7   02:25:28  13263      0   02:30:48  12316      0
        6   01:08:43  19908      0   01:09:45  19085      0
        5   01:19:00  13932      0   01:20:20  12667      0
        4   02:46:13  24533      0   02:49:50  23593      0
