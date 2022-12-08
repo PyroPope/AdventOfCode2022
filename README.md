@@ -5,17 +5,19 @@ I have completed years 2018, 2020, and 2021.
 
 I am not a programmer by profession, but enjoy coding on my own time.
 
-I missed Day 3 and did Day 3 + 4 back to back starting at around 2 am.
-Day 4 took me about 15 minutes for both parts.
+Update 1: I missed Day 3 and did Day 3 + 4 back to back starting at around 2 am. Day 4 took me about 15 minutes for both parts.
 
-Day 6 was a late start, but a good clear time.
+Update 2: Day 6 was a late start, but a good clear time.
 
-Late start on day 7, but the thing took me way too long. About an hour and a half... I was struggling with input working but code not. and the problem was duplicated folder names deeper in the structure.
+Update 3: Late start on day 7, but the thing took me way too long. About an hour and a half... I was struggling with input working but code not. and the problem was duplicated folder names deeper in the structure.
+
+Update 4: Day 8 seemed straight forward... but I overcomplicated it... I am noticing a trend. After I finally got part 1 when I realized I was doing something stupid, I figured out what I needed to do for part 2... then spun my wheels for 20 minutes before cluing in that I could put all the checks into a single return, because once it hits one true, it returned and didn't check other directions.
 
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+       8   00:47:40   8783      0   01:13:20   7947      0
        7   02:25:28  13263      0   02:30:48  12316      0
        6   01:08:43  19908      0   01:09:45  19085      0
        5   01:19:00  13932      0   01:20:20  12667      0
