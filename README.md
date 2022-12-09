@@ -13,10 +13,13 @@ Update 3: Late start on day 7, but the thing took me way too long. About an hour
 
 Update 4: Day 8 seemed straight forward... but I overcomplicated it... I am noticing a trend. After I finally got part 1 when I realized I was doing something stupid, I figured out what I needed to do for part 2... then spun my wheels for 20 minutes before cluing in that I could put all the checks into a single return, because once it hits one true, it returned and didn't check other directions.
 
+Update 5: Day 9 part 2 kicked my ass. had to rewrite my entire code because with 2 knots I had a weird hack that worked... and part 2... just didn't. Finally got there though.
+
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+       9   00:48:57   7032      0   01:48:49   7774      0
        8   00:47:40   8783      0   01:13:20   7947      0
        7   02:25:28  13263      0   02:30:48  12316      0
        6   01:08:43  19908      0   01:09:45  19085      0
