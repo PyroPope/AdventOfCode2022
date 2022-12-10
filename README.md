@@ -15,10 +15,13 @@ Update 4: Day 8 seemed straight forward... but I overcomplicated it... I am noti
 
 Update 5: Day 9 part 2 kicked my ass. had to rewrite my entire code because with 2 knots I had a weird hack that worked... and part 2... just didn't. Finally got there though.
 
+Update 6: Day 10, started about 30 minutes late.. Part 1 I felt like I did okay on... but had to completely scrap it for part 2. After finishing part 2, I worked Part 1 into my part 2 solution easily enough.
+
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+      10   01:14:35  10781      0   01:48:00   9937      0
        9   00:48:57   7032      0   01:48:49   7774      0
        8   00:47:40   8783      0   01:13:20   7947      0
        7   02:25:28  13263      0   02:30:48  12316      0
