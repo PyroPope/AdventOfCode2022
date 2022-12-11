@@ -17,10 +17,13 @@ Update 5: Day 9 part 2 kicked my ass. had to rewrite my entire code because with
 
 Update 6: Day 10, started about 30 minutes late.. Part 1 I felt like I did okay on... but had to completely scrap it for part 2. After finishing part 2, I worked Part 1 into my part 2 solution easily enough.
 
+Update 7: The beginning of days when I don't start at midnight due to other commitments. Today was fun, Part 2 I ran into some deepcopy issues even though I thought of the LCM pretty quickly. I just decided to create the copy when parsing to save headaches.
+
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+      11   12:39:35  35902      0   13:05:24  28157      0
       10   01:14:35  10781      0   01:48:00   9937      0
        9   00:48:57   7032      0   01:48:49   7774      0
        8   00:47:40   8783      0   01:13:20   7947      0
