@@ -1,4 +1,4 @@
-const file = require("./utils/import");
+const file = require("../utils/import");
 
 let lines = file.getInput(13).split("\n");
 //let lines = file.getSample("sample.txt").split("\r\n")
