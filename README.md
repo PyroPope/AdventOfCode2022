@@ -19,10 +19,13 @@ Update 6: Day 10, started about 30 minutes late.. Part 1 I felt like I did okay 
 
 Update 7: The beginning of days when I don't start at midnight due to other commitments. Today was fun, Part 2 I ran into some deepcopy issues even though I thought of the LCM pretty quickly. I just decided to create the copy when parsing to save headaches.
 
+Update 8: Spent far too long trying to figure out how to sort by the appropriate method, only to realize I just needed to plug in my comparison into default javascript sort and felt like an idiot.
+
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+      13   00:54:52   3874      0   01:40:54   5381      0
       12   01:07:48   4813      0   01:12:20   4446      0
       11   12:39:35  35902      0   13:05:24  28157      0
       10   01:14:35  10781      0   01:48:00   9937      0
