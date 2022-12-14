@@ -21,10 +21,13 @@ Update 7: The beginning of days when I don't start at midnight due to other comm
 
 Update 8: Spent far too long trying to figure out how to sort by the appropriate method, only to realize I just needed to plug in my comparison into default javascript sort and felt like an idiot.
 
+Update 9: Took a long time for me to get part 1... I first tried simulating it with drawn grid... eventually just switched gears to use a set instead. It was much easier.
+
 Scores 2022:
 
            --------Part 1--------   --------Part 2--------
       Day       Time  Rank  Score       Time   Rank  Score
+      14   01:15:11   5525      0   01:27:16   5513      0
       13   00:54:52   3874      0   01:40:54   5381      0
       12   01:07:48   4813      0   01:12:20   4446      0
       11   12:39:35  35902      0   13:05:24  28157      0
